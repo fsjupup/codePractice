@@ -10,5 +10,4 @@ public class Test {
 
     private String b;
 
-    private String c;
 }
